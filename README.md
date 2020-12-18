@@ -4,7 +4,7 @@ Os arquivos presentes nesse repositório, foram elaborados durante os curso de A
 
 [![Udemy Badge](https://img.shields.io/badge/-Básico-FF0000?style=flat-square&logo=Udemy&logoColor=white&link=link_do_seu_perfil_no_github)](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/)
 [![Udemy Badge](https://img.shields.io/badge/-Avançado-FF0000?style=flat-square&logo=Udemy&logoColor=white&link=link_do_seu_perfil_no_github)](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/)
-[![Robot Badge](https://img.shields.io/badge/-Robot-Framework-0000?style=flat-square&logo=robot&logoColor=white&link=link_do_seu_perfil_no_github)](https://robotframework.org/)
+[![Robot Badge](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat-square&logo=robot-framework&logoColor=white&link=link_do_seu_perfil_no_github)](https://robotframework.org/)
 
 ## O que é o Robot Framework? 
 
