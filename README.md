@@ -1,4 +1,4 @@
-# Automação de Testes com Robot Framework - Basico e Avançado 
+# :robot: Automação de Testes com Robot Framework - Basico e Avançado 
 
 Os arquivos presentes nesse repositório, foram elaborados durante os curso de Automação de Testes com Robot Framework feitos na Udemy. 
 
