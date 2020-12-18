@@ -5,3 +5,13 @@ Os arquivos presentes nesse repositório, foram elaborados durante os curso de A
 [![Udemy Badge](https://img.shields.io/badge/-Básico-FF0000?style=flat-square&logo=Udemy&logoColor=white&link=link_do_seu_perfil_no_github)](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/)
 [![Udemy Badge](https://img.shields.io/badge/-Avançado-FF0000?style=flat-square&logo=Udemy&logoColor=white&link=link_do_seu_perfil_no_github)](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-avancado/)
 
+
+## O que é o Robot Framework?
+
+É um framework open source para automação de testes desenvolvido em Python, estruturado para o desenvolvimento dirigido a testes de aceitação (ATDD) e é baseado
+em keyword-driven.
+
+- Possui a possibilidade de testar qualquer sistema;
+- As possibilidades de testes podem ser extendidas através de libraries implementadas em Python ou Java;
+- Não necessita IDE, possui sintaxe de escrita tabular fácil de utilizar em qualquer editor;
+- Pode ser instalado e utilizado em qualquer S.O 
