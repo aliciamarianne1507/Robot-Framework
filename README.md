@@ -19,7 +19,6 @@ em keyword-driven.
 
 
 ## SETUP e TEARDOWN
-    ### SETUP 
-        Ele roda keyword antes da suite ou antes de um Teste 
-    ### TEARDOWN
-        Ele roda keyword depois da suite ou depois de um Teste
+
+- SETUP: Ele roda keyword antes da suite ou antes de um Teste 
+- TEARDOWN: Ele roda keyword depois da suite ou depois de um Teste
