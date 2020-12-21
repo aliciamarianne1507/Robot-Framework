@@ -16,3 +16,10 @@ em keyword-driven.
 - As possibilidades de testes podem ser extendidas através de libraries implementadas em Python ou Java;
 - Não necessita IDE, possui sintaxe de escrita tabular fácil de utilizar em qualquer editor;
 - Pode ser instalado e utilizado em qualquer S.O 
+
+
+## SETUP e TEARDOWN
+    ### SETUP 
+        Ele roda keyword antes da suite ou antes de um Teste 
+    ### TEARDOWN
+        Ele roda keyword depois da suite ou depois de um Teste
